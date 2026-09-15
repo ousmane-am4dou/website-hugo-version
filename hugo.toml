@@ -1,0 +1,4 @@
+baseURL = 'https://ozam.me'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'hugo-coder'
